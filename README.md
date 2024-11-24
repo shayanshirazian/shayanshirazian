@@ -38,6 +38,7 @@
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/shayanshirazzian/)
 [![Mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:shayan.shirazian@yahoo.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/@shayanshiraziian)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shayan.shiraziian)
 
 ---
