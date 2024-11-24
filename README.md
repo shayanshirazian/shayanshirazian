@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shayan Shirazian !
 
 🌟 **Aspiring Frontend Developer | Intern | Open-Source Enthusiast**
-
-- ⚠️** Currently intern **
   
 - 💻 Currently working as a **Frontend Intern**.
 - 🌱 Learning and building projects with **React**, **Next.js**, and **TypeScript**.
